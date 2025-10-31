@@ -1,2 +1,2 @@
-<h1>HTMl Showcase</h1>
+<h1>HTML Showcase</h1>
 <p>A showcase of every HTML element</p>
